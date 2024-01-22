@@ -183,3 +183,5 @@ function updateGallery(images) {
     </li>`).join('');
   gallery.insertAdjacentHTML('beforeend', galleryMarkup); 
 }
+
+
